@@ -1,3 +1,13 @@
+# Adding config.py file.
+config.py
+
+# Adding additional files
+__pycache__
+config.cpython-38.pyc
+
+# CSV files
+*.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
